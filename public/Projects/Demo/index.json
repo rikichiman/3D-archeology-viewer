@@ -1,0 +1,440 @@
+{
+    "ifile": {
+        "ref": {
+            "ne": "",
+            "nur": "",
+            "ddr": "",
+            "oa": ""
+        },
+        "local": {
+            "etat": "",
+            "dg": "",
+            "sdg": "",
+            "ssdg": "",
+            "dp": "",
+            "nv": "",
+            "ntv": "",
+            "ville": "",
+            "cp": "",
+            "cx": "",
+            "cy": "",
+            "sc": ""
+        },
+        "fca": {
+            "cat": "",
+            "fc": [],
+            "dt": []
+        },
+        "datation": {
+            "per": "",
+            "sie": ""
+        },
+        "polhe": {
+            "poo": [
+                {
+                    "name": "Amine",
+                    "roles": [
+                        {
+                            "role": "president",
+                            "date": "2012"
+                        },
+                        {
+                            "role": "soldat",
+                            "date": "2020"
+                        }
+                    ]
+                },
+                {
+                    "name": "Speed",
+                    "roles": [
+                        {
+                            "role": "president",
+                            "date": "2012"
+                        },
+                        {
+                            "role": "soldat",
+                            "date": "2020"
+                        }
+                    ]
+                }
+            ]
+        },
+        "MCT": {
+            "mtgo": "",
+            "mdc": ""
+        },
+        "ec": {
+            "egdc": ""
+        },
+        "psj": {
+            "tdp": "",
+            "ndp": "",
+            "ddp": ""
+        },
+        "note": {
+            "ch": ""
+        },
+        "photos": []
+    },
+    "subObjects": [
+        {
+            "Object_ref": {
+                "ifile": {
+                    "ref": {
+                        "ne": "",
+                        "nur": "",
+                        "ddr": "",
+                        "oa": ""
+                    },
+                    "local": {
+                        "etat": "",
+                        "dg": "",
+                        "sdg": "",
+                        "ssdg": "",
+                        "dp": "",
+                        "nv": "",
+                        "ntv": "",
+                        "ville": "",
+                        "cp": "",
+                        "cx": "",
+                        "cy": "",
+                        "sc": ""
+                    },
+                    "fca": {
+                        "cat": "",
+                        "fc": [],
+                        "dt": []
+                    },
+                    "datation": {
+                        "per": "",
+                        "sie": ""
+                    },
+                    "polhe": {
+                        "poo": [
+                            {
+                                "name": "Amine",
+                                "roles": [
+                                    {
+                                        "role": "president",
+                                        "date": "2012"
+                                    },
+                                    {
+                                        "role": "soldat",
+                                        "date": "2020"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Speed",
+                                "roles": [
+                                    {
+                                        "role": "president",
+                                        "date": "2012"
+                                    },
+                                    {
+                                        "role": "soldat",
+                                        "date": "2020"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "MCT": {
+                        "mtgo": "",
+                        "mdc": ""
+                    },
+                    "ec": {
+                        "egdc": ""
+                    },
+                    "psj": {
+                        "tdp": "",
+                        "ndp": "",
+                        "ddp": ""
+                    },
+                    "note": {
+                        "ch": ""
+                    },
+                    "photos": []
+                },
+                "subObjects": [],
+                "type": "E",
+                "model": {
+                    "objFile": "Projects/Demo/Models/ruine_opt_final.obj",
+                    "texFile": "Projects/Demo/img/Ruine_color.png",
+                    "bumpFile": ""
+                }
+            },
+            "pos3d": {
+                "x": 3.5004341364759135,
+                "y": 1.7453568017418633,
+                "z": 1.881279242357416
+            }
+        },
+        {
+            "Object_ref": {
+                "ifile": {
+                    "ref": {
+                        "ne": "",
+                        "nur": "",
+                        "ddr": "",
+                        "oa": ""
+                    },
+                    "local": {
+                        "etat": "",
+                        "dg": "",
+                        "sdg": "",
+                        "ssdg": "",
+                        "dp": "",
+                        "nv": "",
+                        "ntv": "",
+                        "ville": "",
+                        "cp": "",
+                        "cx": "",
+                        "cy": "",
+                        "sc": ""
+                    },
+                    "fca": {
+                        "cat": "",
+                        "fc": [],
+                        "dt": []
+                    },
+                    "datation": {
+                        "per": "",
+                        "sie": ""
+                    },
+                    "polhe": {
+                        "poo": [
+                            {
+                                "name": "Amine",
+                                "roles": [
+                                    {
+                                        "role": "president",
+                                        "date": "2012"
+                                    },
+                                    {
+                                        "role": "soldat",
+                                        "date": "2020"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Speed",
+                                "roles": [
+                                    {
+                                        "role": "president",
+                                        "date": "2012"
+                                    },
+                                    {
+                                        "role": "soldat",
+                                        "date": "2020"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "MCT": {
+                        "mtgo": "",
+                        "mdc": ""
+                    },
+                    "ec": {
+                        "egdc": ""
+                    },
+                    "psj": {
+                        "tdp": "",
+                        "ndp": "",
+                        "ddp": ""
+                    },
+                    "note": {
+                        "ch": ""
+                    },
+                    "photos": []
+                },
+                "subObjects": [],
+                "type": "E",
+                "model": {
+                    "objFile": "Projects/Demo/Models/Forum.obj",
+                    "texFile": "Projects/Demo/img/Forum_map_color_new.png",
+                    "bumpFile": "Projects/Demo/img/Forum_normal_map.png"
+                }
+            },
+            "pos3d": {
+                "x": 9.601721553163218,
+                "y": 2.271157111876505,
+                "z": -3.5915973402814103
+            }
+        },
+        {
+            "Object_ref": {
+                "ifile": {
+                    "ref": {
+                        "ne": "",
+                        "nur": "",
+                        "ddr": "",
+                        "oa": ""
+                    },
+                    "local": {
+                        "etat": "",
+                        "dg": "",
+                        "sdg": "",
+                        "ssdg": "",
+                        "dp": "",
+                        "nv": "",
+                        "ntv": "",
+                        "ville": "",
+                        "cp": "",
+                        "cx": "",
+                        "cy": "",
+                        "sc": ""
+                    },
+                    "fca": {
+                        "cat": "",
+                        "fc": [],
+                        "dt": []
+                    },
+                    "datation": {
+                        "per": "",
+                        "sie": ""
+                    },
+                    "polhe": {
+                        "poo": [
+                            {
+                                "name": "Amine",
+                                "roles": [
+                                    {
+                                        "role": "president",
+                                        "date": "2012"
+                                    },
+                                    {
+                                        "role": "soldat",
+                                        "date": "2020"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Speed",
+                                "roles": [
+                                    {
+                                        "role": "president",
+                                        "date": "2012"
+                                    },
+                                    {
+                                        "role": "soldat",
+                                        "date": "2020"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "MCT": {
+                        "mtgo": "",
+                        "mdc": ""
+                    },
+                    "ec": {
+                        "egdc": ""
+                    },
+                    "psj": {
+                        "tdp": "",
+                        "ndp": "",
+                        "ddp": ""
+                    },
+                    "note": {
+                        "ch": ""
+                    },
+                    "photos": []
+                },
+                "subObjects": [],
+                "type": "E",
+                "model": {
+                    "objFile": "Projects/Demo/Models/Tombe.obj",
+                    "texFile": "Projects/Demo/img/Tombe.png",
+                    "bumpFile": ""
+                }
+            },
+            "pos3d": {
+                "x": 6.9570272797937935,
+                "y": 1.9597006208620797,
+                "z": 5.788324471792708
+            }
+        },
+        {
+            "Object_ref": {
+                "ifile": {
+                    "cat": {
+                        "type": "",
+                        "dim": "",
+                        "met": "",
+                        "iem": "",
+                        "doe": "",
+                        "fab": "",
+                        "sujet": "",
+                        "titre": "",
+                        "ed": "",
+                        "desc": ""
+                    },
+                    "catsup": {
+                        "noid": "",
+                        "ea": "",
+                        "lod": "",
+                        "rao": "",
+                        "date": ""
+                    },
+                    "photos": []
+                },
+                "type": "O",
+                "model": {
+                    "objFile": "Projects/Demo/Models/very_new_high.obj",
+                    "texFile": "Projects/Demo/img/new_high.001.png",
+                    "bumpFile": ""
+                }
+            },
+            "pos3d": {
+                "x": 4.547931839045583,
+                "y": 1.8228370540069427,
+                "z": -0.5311949675146241
+            }
+        },
+        {
+            "Object_ref": {
+                "ifile": {
+                    "cat": {
+                        "type": "",
+                        "dim": "",
+                        "met": "",
+                        "iem": "",
+                        "doe": "",
+                        "fab": "",
+                        "sujet": "",
+                        "titre": "",
+                        "ed": "",
+                        "desc": ""
+                    },
+                    "catsup": {
+                        "noid": "",
+                        "ea": "",
+                        "lod": "",
+                        "rao": "",
+                        "date": ""
+                    },
+                    "photos": []
+                },
+                "type": "O",
+                "model": {
+                    "objFile": "Projects/Demo/Models/stone.obj",
+                    "texFile": "Projects/Demo/img/stone.png",
+                    "bumpFile": ""
+                }
+            },
+            "pos3d": {
+                "x": 4.810056475883755,
+                "y": 1.846689552952995,
+                "z": 0.9601413934448768
+            }
+        }
+    ],
+    "type": "E",
+    "model": {
+        "objFile": "Projects/Demo/Models/Chellah_plan_new.obj",
+        "texFile": "Projects/Demo/img/map_chellah_new.png",
+        "bumpFile": "Projects/Demo/img/map_chellah_NRM.png"
+    }
+}
