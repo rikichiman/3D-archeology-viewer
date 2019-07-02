@@ -1,0 +1,16 @@
+{
+  "name": "Platforme3D",
+  "version": "0.0.0",
+  "description": "Express with three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omor amine",
+  "license": "BSD",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "busboy": "~0.2.11",
+    "express": "~4.10.6"
+  }
+}
