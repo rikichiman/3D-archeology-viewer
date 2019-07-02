@@ -1,0 +1,51 @@
+.Folder_chooser {
+    height: 90%;
+    width: 100%;
+}
+
+.Folder_text {
+    position: relative;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.Folder_text input{
+    position: absolute;
+    right: 0px;
+    width: 77.3%;
+}
+
+.Folder_zone{
+    width: auto;
+    background-color: #797979;
+    overflow-y: auto;
+    height: 100%;
+}
+
+.Folder_pic{
+    z-index: 1;
+    position: relative;
+    display: inline-block;
+    margin: 6px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.Folder_pic p{
+    position: absolute;
+    width: 100%;
+    /* background-color: #3C6553; */
+    text-align: center;
+    font-size: 14;
+    color: white;
+    top: 47px;
+}
+
+.selected {
+    z-index: 4;
+    background-color: brown;
+}
+
+.selected p{
+    background-color: brown;
+}

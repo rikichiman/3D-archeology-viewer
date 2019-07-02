@@ -1,0 +1,62 @@
+span.tittle {
+    background-color: rgb(72, 112, 144);
+    display: block;
+    padding-left: 3%;
+    font-weight: normal;
+    /* font-family: sans-serif; */
+    font-size: 18px;
+    color: #FFFFFF;
+    cursor:default;    
+}
+.accord-element{
+    margin-top: 3px;
+}
+.accord-content {
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-width: thin;
+    background-color: lightslategray;
+}
+
+
+.info_elt {
+    position: relative;
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+input.zone_text {
+    position: absolute;
+    left: 250px;
+    width: 430px;
+}
+span.etiquette {
+    color: gainsboro;
+}
+
+/* style des élements récurssiv  */
+
+.repeat {
+    position: relative;
+    background-color: #4F71A0;
+    width: 65%;
+    padding: 10px;
+    margin: 10px;
+    border-style: dashed; 
+    border-width: thin;
+}
+.elt_repeat {
+    border-style: groove;
+    margin-bottom: 3px;
+    border-width: thin;
+    padding: 3px;
+}
+.repeat input {
+    
+    width: 70%;
+    position: absolute;
+    left:30%;       
+}
+.rep_btns {
+    margin-left: 10px;
+}

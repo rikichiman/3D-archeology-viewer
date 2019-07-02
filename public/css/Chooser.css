@@ -1,0 +1,27 @@
+.EO_chooser{
+    position: absolute;
+    border-style: solid;
+    background-color: darkgray;
+    /*opacity: 0.6;*/
+    z-index: 4;
+}
+
+.EO_option{
+    cursor: pointer;
+    border-radius: 9px;
+    display: inline-block;
+    border-style: dashed;
+    border-width: thin;
+    margin: 6px;
+}
+
+.EO_option p{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 17;
+    color: aliceblue;
+}
+
+span.EO_option:hover{
+    background-color:#61C0DB;
+}
